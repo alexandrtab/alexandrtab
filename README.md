@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandrtab
-- 👀 I’m interested in Programming and memes)
+- 👀 I’m interested in Programming, photo, music, bikes, programming books and memes)
 - 🌱 I’m currently learning HTML,CSS,JavaScrip,NodeJS,BOOTSTRAP,SCSS,Sass
 - 💞️ I’m looking to collaborate on VK - https://vk.com/id487860957, E-Mail - shura.tabolich@mail.ru
 - 📫 How to reach me 
