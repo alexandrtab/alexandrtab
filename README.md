@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandrtab
 - 👀 I’m interested in Programming, photo, music, bikes, programming books and memes)
 - 🌱 I’m currently learning HTML,CSS,JavaScrip,NodeJS,BOOTSTRAP,SCSS,Sass
-- 💞️ I’m looking to collaborate on VK - https://vk.com/id487860957, E-Mail - shura.tabolich@mail.ru
+- 💞️ I’m looking to collaborate on LinkedIn -https://www.linkedin.com/in/alexandr-tabolich-856b12212/, E-Mail - shura.tabolich@mail.ru
 - 📫 How to reach me 
 
 <!---
