@@ -21,4 +21,8 @@
 [![VKontakte](https://img.shields.io/static/v1?label&message=VKontakte&color=grey&style=for-the-badge&logo=VK)](https://vk.com/reyang)
 [![E-mail](https://img.shields.io/static/v1?label&message=E-mail&color=grey&style=for-the-badge&logo=mail.ru)](https://shura.tabolich@mail.ru)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtab&hide=issues,contribs&theme=buefy)](https://github.com/alexandrtab/github-readme-stats)
+## My Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtab&hide=issues,contribs&theme=buefy&count-private=true&show_icons=true)](https://github.com/alexandrtab/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtab&layout=compact&theme=buefy)](https://github.com/alexandrtab/github-readme-stats)
