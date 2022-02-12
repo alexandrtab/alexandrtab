@@ -1,6 +1,6 @@
 ![HEADER](https://github.com/alexandrtab/alexandrtab/blob/main/assets/coding.gif)
 
-## Hi there, I'm Alexandr and I'm a Front-End Developer
+# Hi there, I'm Alexandr and I'm a Front-End Developer
 
 ## Languages and tools
 
@@ -14,3 +14,9 @@
 ![TypeScript](https://img.shields.io/static/v1?label&message=TypeScript&color=lightgrey&style=for-the-badge&logo=typescript)
 ![BOOTSTRAP](https://img.shields.io/static/v1?label&message=BOOTSTRAP&color=lightgrey&style=for-the-badge&logo=bootstrap)
 ![Sass](https://img.shields.io/static/v1?&label&message=Sass&color=lightgrey&style=for-the-badge&logo=sass)
+
+## Follow me!
+
+[![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=lightgrey&style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/alexandr-tabolich)
+[![VKontakte](https://img.shields.io/static/v1?label&message=VKontakte&color=lightgrey&style=for-the-badge&logo=VK)](https://vk.com/reyang)
+[![E-mail](https://img.shields.io/static/v1?label&message=E-mail&color=lightgrey&style=for-the-badge&logo=mail.ru)](shura.tabolich@mail.ru)
