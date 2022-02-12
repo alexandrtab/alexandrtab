@@ -20,3 +20,5 @@
 [![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=grey&style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/alexandr-tabolich)
 [![VKontakte](https://img.shields.io/static/v1?label&message=VKontakte&color=grey&style=for-the-badge&logo=VK)](https://vk.com/reyang)
 [![E-mail](https://img.shields.io/static/v1?label&message=E-mail&color=grey&style=for-the-badge&logo=mail.ru)](https://shura.tabolich@mail.ru)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtab&hide=issues,contribs&theme=buefy)](https://github.com/alexandrtab/github-readme-stats)
