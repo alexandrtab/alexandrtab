@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/alexandrtab/alexandrtab/blob/main/assets/coding.gif"/>
-</p>
+</div>
 
 # Hi there, I'm Alexandr and I'm a Front-End Developer
 
