@@ -1,4 +1,6 @@
-![HEADER](https://github.com/alexandrtab/alexandrtab/blob/main/assets/coding.gif)
+<p align="center">
+  <img src="https://github.com/alexandrtab/alexandrtab/blob/main/assets/coding.gif"/>
+</p>
 
 # Hi there, I'm Alexandr and I'm a Front-End Developer
 
