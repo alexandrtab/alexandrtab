@@ -19,4 +19,4 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=lightgrey&style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/alexandr-tabolich)
 [![VKontakte](https://img.shields.io/static/v1?label&message=VKontakte&color=lightgrey&style=for-the-badge&logo=VK)](https://vk.com/reyang)
-[![E-mail](https://img.shields.io/static/v1?label&message=E-mail&color=lightgrey&style=for-the-badge&logo=mail.ru)](shura.tabolich@mail.ru)
+[![E-mail](https://img.shields.io/static/v1?label&message=E-mail&color=lightgrey&style=for-the-badge&logo=mail.ru)](https://shura.tabolich@mail.ru)
