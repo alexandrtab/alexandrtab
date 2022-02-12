@@ -19,7 +19,7 @@
 
 ## Follow me!
 
-[![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=grey&style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/alexandr-tabolich)
+[![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=grey&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/alexandr-tabolich)
 [![VKontakte](https://img.shields.io/static/v1?label&message=VKontakte&color=grey&style=for-the-badge&logo=VK)](https://vk.com/reyang)
 [![E-mail](https://img.shields.io/static/v1?label&message=E-mail&color=grey&style=for-the-badge&logo=mail.ru)](https://shura.tabolich@mail.ru)
 
